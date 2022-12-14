@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 #define sayi 5
 
 float ortbul(float adizi[sayi],float bdizi[sayi],float cdizi[sayi]){
